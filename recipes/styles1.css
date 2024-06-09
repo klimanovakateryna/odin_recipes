@@ -1,14 +1,15 @@
 h4 {
-    color:rgb(12, 95, 101);
+    color:rgb(217, 246, 248);
     font-size: 20px;
-    background-color: rgb(219, 246, 246);
+    background-color: rgb(26, 152, 152);
     text-align:center;
     font-family: Monaco;
     font-weight: 800;
 }
 
 h1 {
-    color: rgb(7, 64, 106);
+    background-color: rgb(26, 152, 152);
+    color:rgb(243, 249, 250);
     text-align:center;
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 25px;
@@ -18,4 +19,10 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+body {
+    font-family: monospace;
+    font-size: 13px;
+    background-color: rgba(233, 235, 243, 0.693);
 }
