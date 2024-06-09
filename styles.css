@@ -1,0 +1,14 @@
+.list {
+    font-size: 15px;
+    font-family: "Monaco";
+    color: rgb(13, 67, 105);
+}
+
+.circle {
+    color: rgb(6, 2, 47);
+}
+
+.header {
+    text-align: center;
+    color:rgb(7, 64, 106)
+}
